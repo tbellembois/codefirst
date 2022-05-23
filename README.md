@@ -6,7 +6,7 @@ CI/CD made easy. A project by the [Université Clermont Auvergne (UCA)](https://
 
 Follow us on [LinkedIn](https://www.linkedin.com/company/code-1st).
 
-![screenshot](media/codefirst_screenshot.png)
+![screenshot](media/codefirst_screenshot.gif)
 
 ## Why?
 
